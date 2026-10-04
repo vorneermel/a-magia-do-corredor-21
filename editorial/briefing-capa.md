@@ -13,4 +13,3 @@ Use case: illustration-story. Asset: original literary book cover illustration, 
 ## Prompt traseiro completo
 
 Use case illustration-story. Asset: small original illustration for back cover of a mature romantic literary short story. A simple blue ceramic mug of warm tea on a cream wooden tabletop beside a window, and a small modest flowering plant in a plastic nursery pot, with one unopened bud. Soft morning light, sage green leaves, warm cream wall and muted golden light. Refined painterly illustration with fine paper texture, calm intimacy and hope, natural everyday details, understated aesthetic matching a cream/sage supermarket romance cover. Composition portrait 4:5, objects in lower half with generous softly lit empty cream space above, no text, logos, watermark, people, elaborate flowers or supernatural effects.
-
