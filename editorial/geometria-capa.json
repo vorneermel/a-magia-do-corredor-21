@@ -1,0 +1,22 @@
+{
+  "paginas": 32,
+  "papel_proposto": "creme",
+  "lombada_mm": 2.032,
+  "sangria_mm": 3.175,
+  "capa_pontos": [
+    743.76,
+    594
+  ],
+  "arte_frente_pixels": [
+    992,
+    1586
+  ],
+  "ppi_frente": 302.4390243902439,
+  "arte_verso_pixels": [
+    1122,
+    1402
+  ],
+  "ppi_verso": 374.0,
+  "template_calculadora": "não aplicado",
+  "estado": "proposta; validar com template e Print Previewer"
+}

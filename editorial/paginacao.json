@@ -1,0 +1,15 @@
+{
+  "paginas": 32,
+  "formato_polegadas": [
+    5,
+    8
+  ],
+  "capitulos": {
+    "1": 4,
+    "2": 8,
+    "3": 10,
+    "4": 21,
+    "5": 29
+  },
+  "pagina_final_branca": true
+}

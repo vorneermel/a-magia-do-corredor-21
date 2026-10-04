@@ -1,0 +1,926 @@
+# A magia do corredor 21
+*Vorne Ermel*
+
+Naquele último fim de semana do mês, fui ao supermercado com uma lista de compras e a intenção de voltar logo para casa.
+
+Era uma manhã clara. Antes mesmo de entrar no estacionamento, percebi que havia mais movimento do que de costume. Um carro esperava por uma vaga enquanto outro tentava sair. Perto da entrada, uma família organizava sacolas no porta-malas, e um menino abraçava um pacote de papel higiênico quase do tamanho dele.
+
+Dei duas voltas pelo pátio até encontrar onde estacionar.
+
+Desliguei o motor, conferi se estava com a carteira e procurei a lista no bolso da camisa. Eu a havia escrito na noite anterior, sentado à mesa da cozinha. Arroz, café, leite, frutas, algumas coisas para o almoço e outras que sempre faltavam quando eu precisava delas.
+
+No fim do papel, acrescentei chá.
+
+Ultimamente, eu vinha preparando uma xícara antes de dormir. Nem sempre dormia melhor, mas gostava daqueles minutos em que a água aquecia e eu não precisava fazer nada além de esperar.
+
+Saí do carro e fui buscar um carrinho.
+
+Eles estavam encostados na parede daquele prédio enorme, encaixados uns nos outros. O primeiro não se soltou. Puxei novamente e consegui libertá-lo, ouvindo o ruído das rodas sobre o chão.
+
+Uma delas parecia indecisa quanto à direção.
+
+Empurrei alguns metros, fiz uma curva e aceitei que passaria a manhã negociando com ela.
+
+A porta automática se abriu.
+
+O ar fresco do supermercado me recebeu junto com o cheiro de pão. Havia vozes por toda parte, o som dos leitores nos caixas e uma música que eu não conseguia identificar. Pelo alto-falante, alguém anunciava ofertas de fim de mês com um entusiasmo que me pareceu exagerado para aquela hora.
+
+Peguei a lista.
+
+Minha intenção era simples: seguir os corredores, comprar o necessário e sair antes de o estacionamento ficar ainda mais cheio.
+
+Não havia nada naquele plano que anunciasse o que aconteceria depois.
+
+***
+
+Comecei pelas frutas.
+
+Uma senhora apertava levemente duas mangas, comparando-as como se uma delas guardasse uma resposta importante.
+
+— O senhor entende disso? — perguntou quando me aproximei.
+
+Olhei para as frutas.
+
+— Muito pouco.
+
+— Então estamos iguais.
+
+Ela riu e me mostrou as duas.
+
+— Quero uma para hoje. Se eu levar verde, meu marido reclama. Se eu levar madura demais, ele reclama também.
+
+— Talvez o problema não esteja na manga.
+
+Ela levantou os olhos para mim e soltou uma risada curta, satisfeita.
+
+— Foi o que eu disse a ele.
+
+Escolheu uma, colocou no saco e se afastou.
+
+Continuei minhas compras com um sorriso. Peguei bananas, maçãs e duas laranjas. Depois voltei e acrescentei outras duas, sem saber por que havia sido tão econômico na primeira escolha.
+
+Os corredores estavam estreitos para tanta gente.
+
+Carrinhos vinham em sentido contrário, paravam de repente, atravessavam o caminho. Era preciso pedir licença, recolher o braço, esperar alguém terminar de examinar uma embalagem.
+
+Um funcionário organizava pacotes numa prateleira.
+
+— Onde fica o café? — perguntei.
+
+— Corredor oito. Depois dos biscoitos.
+
+Agradeci e segui naquela direção.
+
+Passei por uma criança que negociava com a mãe a compra de um chocolate.
+
+— Mas está em promoção.
+
+— Continua sendo chocolate.
+
+— Só que mais barato.
+
+A mãe tentou manter a expressão séria. Eu baixei os olhos para a lista, disfarçando o riso.
+
+No corredor oito, comparei três marcas de café. A embalagem que costumava comprar estava mais cara. Peguei outra, examinei o peso e fiz mentalmente uma conta que precisei repetir.
+
+Ao meu lado, um homem falava ao telefone:
+
+— O vermelho ou o azul? Aqui tem dois azuis.
+
+Fiquei algum tempo olhando aquelas prateleiras. Tantas escolhas pequenas, tantas pessoas tentando acertar alguma coisa para quem esperava em casa.
+
+Eu já havia comprado quase tudo quando lembrei de uma conhecida que trabalhava nos caixas.
+
+Fazia algum tempo que não passava por ela. Era uma mulher simpática, dessas que conseguem conversar enquanto trabalham sem transformar a conversa num atraso. Perguntava pelas pessoas, lembrava de um comentário antigo, percebia quando alguém estava abatido.
+
+Sua fila costumava ser longa.
+
+Pensei que, naquele dia, valeria a pena esperar.
+
+Ainda precisava buscar chá e conferir o preço de um produto de limpeza. Parei diante de uma prateleira e tirei os óculos do bolso.
+
+Foi então que alguém passou por mim.
+
+***
+
+Não vi seu rosto naquele primeiro instante.
+
+Percebi apenas a passagem de um corpo pelo espaço entre meu carrinho e a prateleira. Ao mesmo tempo, senti um movimento tão breve e tão nítido que minha primeira reação foi procurar a mão que devia ter tocado meu braço.
+
+Não havia mão alguma.
+
+Olhei para o ombro, depois para o braço.
+
+Meu carrinho continuava parado. Meus pés também. Mas tive a impressão de que, por uma fração de segundo, eu havia sido arrastado na direção daquela pessoa.
+
+Não foi um susto.
+
+Foi uma sensação de alegria, de bem-estar, como se eu tivesse reconhecido alguma coisa antes de saber o que era.
+
+Respirei fundo.
+
+O supermercado continuava ao meu redor. Alguém procurava detergente. Uma roda rangia. O alto-falante anunciava o preço de um produto que não consegui ouvir inteiro.
+
+Tudo permanecia no lugar, e eu tentava entender por que me sentia diferente.
+
+Virei o rosto.
+
+Era uma mulher de meia-idade. Seguia com seu carrinho sem pressa, observando as prateleiras. Não demonstrava ter percebido minha presença.
+
+Tentei lembrar se a conhecia.
+
+Talvez uma vizinha de outro bairro. Uma pessoa que eu tivesse visto numa festa, no banco ou numa sala de espera. Às vezes, a memória reconhece um rosto e demora a nos dizer de onde ele vem.
+
+Mas não era isso.
+
+Eu ainda não havia visto seu rosto direito.
+
+Voltei à lista.
+
+Li “leite”, embora o leite já estivesse no carrinho. Desci o dedo pelo papel, encontrei o produto de limpeza e peguei uma embalagem.
+
+Fiquei segurando-a.
+
+A mulher avançou mais alguns metros, parou brevemente e depois dobrou à esquerda.
+
+Acompanhei sua passagem com os olhos.
+
+Acima da entrada do corredor, uma placa anunciava:
+
+**21 — Produtos naturais.**
+
+Eu precisava comprar chá.
+
+Essa era uma razão suficiente para ir até lá. Ainda assim, antes de empurrar o carrinho, fiquei um instante parado, consciente de que havia outra razão.
+
+Queria entender o que tinha acontecido comigo.
+
+Queria saber quem ela era.
+
+Coloquei a embalagem no carrinho e segui pelo corredor paralelo, entrando no de produtos naturais pela outra extremidade.
+
+***
+
+Ela estava diante dos chás.
+
+Parei perto das castanhas e procurei agir com naturalidade. Examinei uma embalagem de nozes, comparei o preço com outra e li a quantidade indicada no pacote.
+
+Eu realmente gostava de nozes. Comprei uma porção.
+
+Depois peguei castanhas.
+
+A mulher tirava caixas da prateleira, lia os rótulos e devolvia algumas. Seu carrinho tinha poucas coisas: frutas, pão, legumes e uma pequena planta num vaso de plástico.
+
+Não havia nada extraordinário naquela cena.
+
+Foi justamente isso que me confundiu.
+
+Ela parecia uma pessoa cumprindo uma tarefa comum, numa manhã comum. Eu, a poucos passos, estava tentando explicar uma sensação que ainda me atravessava.
+
+Aproximei-me dos chás.
+
+Peguei uma caixa de camomila, que já conhecia, e outra de um sabor que nunca havia experimentado. Li a frente, depois o verso.
+
+As letras não ficaram na memória.
+
+Meu carrinho balançou.
+
+Ouvi o pequeno choque do metal e me virei.
+
+— Desculpe.
+
+Era ela.
+
+Segurava o próprio carrinho e sorria com um leve constrangimento.
+
+— Eu estava olhando a prateleira e não vi que o seu estava tão perto.
+
+— Não foi nada.
+
+Só então pude observar seu rosto.
+
+Tinha a pele morena clara, olhos verdes e sobrancelhas bem desenhadas. A boca guardava o sorriso mesmo nos intervalos entre as palavras. Usava um vestido liso, de cor clara, e o modo como se movia fez meu olhar se demorar por alguns segundos.
+
+Quando percebi, voltei aos seus olhos.
+
+Minha voz falhou um pouco.
+
+— Bom dia.
+
+— Bom dia.
+
+Eu segurava a caixa de chá como se precisasse dela para justificar minha presença.
+
+— Também gosto de comprar produtos naturais — disse.
+
+Assim que ouvi a própria frase, achei que poderia ter escolhido uma melhor.
+
+Ela olhou para a caixa em minhas mãos.
+
+— Esse eu ainda não experimentei. É bom?
+
+— Também não sei. Estou tentando descobrir.
+
+— Pelo rótulo?
+
+Olhei para a embalagem e ri.
+
+— Estou há um bom tempo olhando, mas ainda não descobri muita coisa.
+
+Ela riu comigo.
+
+A conversa começou a ficar mais fácil.
+
+— Costumo levar camomila — falei. — Resolvi mudar um pouco.
+
+— Eu também tenho essa mania de comprar sempre o mesmo. Hoje decidi escolher um diferente.
+
+Mostrou duas caixas.
+
+— Só não sei qual.
+
+— Parece que nós dois viemos preparados.
+
+— Muito preparados.
+
+Ficamos alguns instantes examinando as opções. Uma pessoa passou entre nós e a prateleira, pediu licença e retirou uma embalagem. Afastamos os carrinhos para abrir espaço.
+
+Ela apontou para uma das caixas que eu segurava.
+
+— Minha irmã gosta dessa.
+
+— Então vou confiar na sua irmã.
+
+— Depois não diga que fui eu que indiquei.
+
+— Combinado.
+
+Coloquei a caixa no carrinho.
+
+Ela fez o mesmo com a sua.
+
+***
+
+Eu podia ter encerrado a conversa ali.
+
+Nós havíamos nos cumprimentado, trocado algumas palavras e escolhido nossos chás. Ela não me devia mais nada, e eu sabia disso.
+
+Mas havia uma pergunta dentro de mim que não se acomodava.
+
+Em vez de fazê-la, olhei para o pequeno vaso em seu carrinho.
+
+— Vai plantar?
+
+Ela acompanhou meu olhar.
+
+— Quero tentar.
+
+A planta tinha folhas pequenas e uma flor ainda fechada.
+
+— Lá em casa há um lugar perto da janela — explicou. — Acho que ela vai gostar.
+
+— Eu não tenho muita sorte com plantas.
+
+— Esquece de molhar?
+
+— Às vezes. Em outras, acho que molho demais para compensar.
+
+Ela sorriu.
+
+— As duas coisas atrapalham.
+
+— Percebi.
+
+Passou o dedo com cuidado pela borda do vaso.
+
+— Esta estava um pouco escondida entre as outras. Eu ia levar uma maior, mas acabei gostando dela.
+
+Olhei para a flor fechada.
+
+— Ainda vai abrir.
+
+— Foi o que pensei.
+
+Naquele momento, um menino passou correndo e se deteve diante de um pacote de frutas secas. A mãe veio atrás, cansada, e pediu que ele ficasse perto.
+
+A mulher deu espaço para os dois. Depois voltou a olhar para mim.
+
+— O mercado está cheio hoje.
+
+— Último fim de semana do mês.
+
+— E todo mundo acha que vai entrar e sair depressa.
+
+— Eu achei.
+
+— Eu também.
+
+Sorrimos, reconhecendo nosso pequeno erro.
+
+Ela pegou outra caixa de chá e disse:
+
+— Tenho tentado cuidar melhor da alimentação. A gente deseja viver bastante, mas também precisa cuidar dos anos que tem.
+
+— Comida saudável, vida mais longa — respondi.
+
+Ela inclinou a cabeça.
+
+— Tomara. Pelo menos quero me sentir melhor.
+
+Gostei daquela resposta. Havia nela uma esperança simples, sem a certeza exagerada que às vezes encontramos nas conversas sobre saúde.
+
+— Começou pelos chás? — perguntei.
+
+— Pelos chás e pelas frutas. Ainda não consegui resolver minha relação com os doces.
+
+— Então temos outro problema em comum.
+
+Ela olhou para meu carrinho.
+
+Havia um pequeno pacote de biscoitos entre o café e o arroz.
+
+Eu o empurrei discretamente para trás de uma sacola.
+
+Ela viu e riu.
+
+Aquela risada me trouxe de volta a sensação de quando passara por mim. Menos intensa, mas reconhecível.
+
+Pensei em contar.
+
+Pensei também em como soaria, no meio de um corredor de supermercado, dizer a uma desconhecida que eu havia me sentido puxado por ela.
+
+Fiquei em silêncio.
+
+***
+
+Um anúncio pelo alto-falante interrompeu a conversa. Chamavam o responsável por um carro que estava impedindo a saída de outro.
+
+Ela levantou os olhos por um instante.
+
+— Ainda bem que não é o meu.
+
+— O meu está tão longe da entrada que acho difícil atrapalhar alguém.
+
+— Também estacionei longe.
+
+A conversa ameaçou terminar novamente.
+
+Ela ajeitou a bolsa no ombro e tocou a alça do carrinho. Eu senti aquela pequena urgência que surge quando queremos dizer alguma coisa antes que a oportunidade passe.
+
+— Posso lhe fazer uma pergunta um pouco estranha?
+
+Ela olhou para mim com atenção.
+
+— Pode.
+
+Procurei as palavras.
+
+— Quando passou por mim, no outro corredor… chegou a encostar no meu braço?
+
+Ela franziu levemente a testa, tentando lembrar.
+
+— Acho que não. Esbarrei?
+
+— Não. Foi só uma impressão.
+
+Olhou para o meu braço e depois para o próprio carrinho.
+
+— Talvez a bolsa. Mas eu não percebi.
+
+— Pode ter sido.
+
+Eu poderia ter deixado a explicação ali. Ela era suficiente para encerrar o assunto, embora não explicasse o que eu sentira.
+
+A mulher continuava me olhando, esperando.
+
+— É que tive uma sensação diferente — acrescentei. — Não foi desagradável. Pelo contrário. Só me pegou de surpresa.
+
+Ela não respondeu imediatamente.
+
+Eu me arrependi um pouco da franqueza.
+
+— Talvez eu esteja me expressando mal.
+
+— Não — disse. — Estou tentando entender.
+
+A calma de sua resposta me ajudou.
+
+— Por um instante, pareceu que eu tinha acompanhado você, mesmo ficando parado.
+
+Ela baixou os olhos e sorriu, sem rir de mim.
+
+— Nunca ouvi alguém explicar assim.
+
+— Nem eu. É a primeira vez que tento.
+
+Um carrinho passou atrás dela. Esperamos a pessoa se afastar.
+
+— Eu não senti um puxão — respondeu. — Mas estava mais leve hoje.
+
+Olhei para seu rosto.
+
+— Mais leve?
+
+— Saí de casa com vontade de fazer algumas coisas que vinha adiando. Parece pouco, mas para mim não foi.
+
+Apontei com os olhos para a planta.
+
+— Como levar essa para casa?
+
+— Como levar essa para casa.
+
+Ela respirou e observou o movimento do corredor.
+
+Não explicou o que havia adiado nem por quê. Eu tive vontade de perguntar, mas percebi que aquela parte da conversa lhe pertencia.
+
+— Talvez eu tenha notado isso — falei.
+
+— Talvez.
+
+A palavra ficou entre nós sem exigir uma conclusão.
+
+***
+
+Do outro lado do corredor, uma senhora tentava alcançar uma caixa na prateleira mais alta. Esticava o braço e empurrava outra embalagem sem conseguir segurar a que queria.
+
+A mulher percebeu primeiro.
+
+— É aquela ali? — perguntou.
+
+A senhora confirmou.
+
+Eu me aproximei e retirei a caixa.
+
+— Esta?
+
+— Essa mesmo. Obrigada, meu filho.
+
+Entreguei o produto.
+
+A senhora conferiu o sabor e sorriu para nós dois.
+
+— Meu marido só gosta deste. Se eu levar outro, ele diz que mudaram a receita.
+
+— Mesmo sendo outro chá? — perguntei.
+
+— Principalmente sendo outro chá.
+
+Rimos.
+
+Ela seguiu seu caminho, e eu voltei para perto do carrinho.
+
+A mulher ainda sorria.
+
+— Acho que o mercado inteiro veio comprar chá hoje — disse.
+
+— Alguns vieram procurar explicações também.
+
+Falei antes de pensar.
+
+Ela me olhou, e por um instante temi ter insistido demais. Mas seu sorriso permaneceu.
+
+— Encontrou alguma?
+
+— Ainda não.
+
+— Talvez precise experimentar primeiro.
+
+Olhei para a caixa no carrinho.
+
+— O chá?
+
+Ela deu uma pequena risada.
+
+— Também.
+
+Eu não soube exatamente o que fazer com aquela resposta. Guardei-a, como já estava guardando tantas coisas daquela manhã.
+
+Ela consultou um papel dobrado que trazia na bolsa.
+
+— Falta pão para amanhã.
+
+— Eu ainda preciso buscar uma coisa que esqueci.
+
+Olhei para a minha lista. Tudo estava riscado, menos um item que não conseguia ler porque o papel havia amassado.
+
+Alisei-o sobre a mão.
+
+Ela acompanhou meu esforço.
+
+— Foi o senhor que escreveu?
+
+— Infelizmente.
+
+— Então ninguém vai poder ajudar.
+
+Consegui decifrar: sal.
+
+Mostrei a palavra.
+
+— Parece que é sal.
+
+— Uma descoberta importante.
+
+Nós nos afastamos da prateleira ao mesmo tempo. No fim do corredor, ela precisaria seguir à direita, e eu, à esquerda.
+
+Antes de sair, ela se virou.
+
+— Espero que goste do chá.
+
+— Também espero.
+
+Hesitei.
+
+— Meu nome é…
+
+Disse meu nome, ainda com a estranha sensação de que uma apresentação tão comum era um passo muito grande.
+
+Ela disse o dela.
+
+Repeti-o uma vez, baixinho, para não esquecer.
+
+Foi bom ouvi-lo. Até então, em meus pensamentos, ela era apenas aquela mulher, aquela presença que passara por mim.
+
+Agora tinha um nome.
+
+— Prazer — falei.
+
+— Prazer.
+
+E cada um seguiu em busca do que faltava.
+
+***
+
+Encontrei o sal, coloquei-o no carrinho e conferi a lista mais uma vez.
+
+As compras estavam completas.
+
+Eu já podia ir embora.
+
+No entanto, parei perto de uma exposição de canecas. Havia algumas brancas, outras com desenhos, outras com frases que prometiam transformar qualquer café numa celebração.
+
+Peguei uma azul.
+
+Não precisava dela.
+
+A minha xícara de casa tinha uma pequena marca na borda, mas ainda servia. Eu a usava havia anos, e nunca havia pensado em substituí-la.
+
+Virei a caneca para ver o preço.
+
+Ao meu lado, um casal escolhia pratos. A mulher queria uma cor; o homem, outra. Depois de algum tempo, decidiram levar duas de cada.
+
+Coloquei a caneca azul no carrinho.
+
+Não pareceu uma grande decisão, mas me senti um pouco ridículo e, ao mesmo tempo, satisfeito.
+
+Talvez eu estivesse apenas aproveitando a promoção.
+
+Talvez quisesse que o chá daquela manhã tivesse onde começar.
+
+Segui para os caixas.
+
+A fila da minha conhecida era, como eu imaginara, uma das maiores. Entrei nela e observei o salão.
+
+Não vi a mulher.
+
+Procurei discretamente entre as pessoas que avançavam com os carrinhos. Um vestido claro chamou minha atenção, mas era outra pessoa.
+
+Decidi parar de procurar.
+
+A conversa havia acontecido. Eu não precisava transformá-la numa perseguição pelo supermercado.
+
+Aproximei o carrinho um pouco mais da esteira e esperei.
+
+Foi quando ouvi meu nome.
+
+Virei.
+
+Ela estava na fila ao lado.
+
+Ergueu uma caixa de chá, mostrando-a.
+
+— Acabei levando o mesmo que você.
+
+Levantei a minha.
+
+— Então a sua irmã terá de responder por nós dois.
+
+Ela riu.
+
+A pequena planta estava acomodada perto da bolsa, protegida entre duas embalagens.
+
+— Encontrou o sal? — perguntou.
+
+— Encontrei.
+
+— Ótimo. Já posso ficar tranquila.
+
+Uma pessoa entre as filas sorriu ao ouvir nossa conversa.
+
+Eu também ri, agora sem a dificuldade de antes.
+
+***
+
+As duas filas avançavam em ritmos diferentes.
+
+A minha andou primeiro. Coloquei parte das compras na esteira e cumprimentei minha conhecida.
+
+— Você sumiu — disse ela.
+
+— Faz algum tempo.
+
+— Está tudo bem?
+
+Pensei antes de responder.
+
+— Hoje está.
+
+Ela me olhou por um instante, talvez percebendo algo em minha voz, e começou a passar os produtos.
+
+A mulher permanecia um pouco atrás, na fila ao lado.
+
+De vez em quando, nossos olhares se encontravam. Não precisávamos falar o tempo inteiro. Havia clientes para atender, compras para organizar e funcionários pedindo espaço.
+
+Minha conhecida pegou a caneca azul.
+
+— Gostei desta.
+
+— Eu também.
+
+— Vai dar de presente?
+
+Olhei para a caneca.
+
+— Não. É para mim.
+
+Ela sorriu e a passou pelo leitor.
+
+A fila ao lado parou. Um cliente procurava o cartão nos bolsos enquanto a operadora aguardava.
+
+A mulher tirou a planta do carrinho para impedir que uma embalagem caísse sobre ela.
+
+— Vai conseguir levar tudo? — perguntei.
+
+— Vou. Só preciso arrumar melhor.
+
+Minha conhecida terminou a conta. Paguei e comecei a colocar as compras nas sacolas. O café foi para uma, as frutas para outra. A caneca ficou envolvida num pacote leve, perto dos chás.
+
+Eu poderia ter me despedido e saído.
+
+Mas a mulher estava terminando de passar suas compras, e resolvi esperá-la além dos caixas, perto da saída, onde não atrapalharia ninguém.
+
+Quando se aproximou, olhou para minhas sacolas.
+
+— O senhor comprou uma caneca.
+
+— Comprei.
+
+— Para experimentar o chá?
+
+— Acho que sim.
+
+Ela sorriu.
+
+— Boa escolha.
+
+Por alguns segundos, ficamos parados, enquanto pessoas passavam entre nós e a porta. A conversa parecia ter chegado àquele ponto em que qualquer decisão precisa ser um pouco mais clara.
+
+Respirei.
+
+— Gostei de conversar com você.
+
+— Eu também.
+
+— Não sei se seria muito…
+
+Interrompi a frase.
+
+Ela esperou.
+
+— Gostaria de conversar outra vez. Se você também quiser.
+
+A pergunta saiu simples, embora eu tivesse levado tanto tempo para fazê-la.
+
+Ela olhou para mim sem pressa.
+
+— Gostaria.
+
+Senti uma alegria que já não precisava de explicação.
+
+Peguei o celular.
+
+Trocamos os números ali, entre uma compra e outra, com os carrinhos encostados perto de uma parede.
+
+Quando o nome dela apareceu na tela, tive vontade de sorrir novamente. E sorri.
+
+— Pronto — disse.
+
+— Pronto.
+
+Guardei o telefone.
+
+Não combinamos uma vida. Nem sequer escolhemos um dia. Havia apenas a possibilidade de uma próxima conversa, e naquele momento isso me pareceu suficiente.
+
+***
+
+Saímos juntos.
+
+A porta automática se abriu, e a claridade do pátio nos fez apertar os olhos.
+
+O ar estava mais quente. Um carro aguardava a vaga de uma família que ainda organizava as sacolas. Perto dos carrinhos, um funcionário recolhia os que tinham ficado espalhados.
+
+Ela segurava a planta com uma das mãos e empurrava o carrinho com a outra.
+
+— Quer que eu leve o vaso? — perguntei.
+
+— Pode levar um instante?
+
+Entregou-o com cuidado.
+
+As folhas eram delicadas. Uma delas havia se dobrado contra a embalagem de plástico que protegia o vaso.
+
+Ajeitei-a devagar.
+
+Caminhamos até o carro dela.
+
+No percurso, falamos da dificuldade de estacionar e do calor que devia fazer à tarde. Era uma conversa comum, mas já não me parecia necessário encontrar algo extraordinário para dizer.
+
+Ela abriu o porta-malas.
+
+Acomodou as sacolas e procurou um lugar seguro para a planta. Entreguei o vaso, e ela o colocou dentro de uma pequena caixa vazia.
+
+— Assim não vira — disse.
+
+— Bom começo.
+
+— Agora só preciso lembrar de molhar.
+
+— Sem tentar compensar tudo de uma vez.
+
+Ela reconheceu nossa conversa e riu.
+
+Depois fechou o porta-malas.
+
+Ficamos ao lado do carro, sem os carrinhos entre nós.
+
+Eu vi de novo os olhos verdes, o sorriso e a expressão serena que me havia chamado a atenção. Desta vez, também percebi um pouco de cansaço. Havia pequenas marcas no rosto, coisas que a beleza não escondia e que eu não gostaria que escondesse.
+
+Era uma mulher com uma vida que eu desconhecia.
+
+Eu queria conhecê-la aos poucos.
+
+— Quando chegar, vou procurar um lugar para ela — disse, olhando para o vaso através do vidro.
+
+— Perto da janela?
+
+— Perto da janela.
+
+Ela abriu a porta do carro, mas ainda não entrou.
+
+— E depois vou experimentar o chá.
+
+— Eu também.
+
+— Então podemos comparar as opiniões.
+
+— Podemos.
+
+Despedi-me.
+
+Ela tocou de leve meu braço.
+
+Foi um gesto breve e real.
+
+Desta vez, eu soube de onde vinha a sensação.
+
+***
+
+Voltei para o meu carro empurrando o carrinho vazio dela junto ao meu.
+
+A roda que antes resistia continuava resistindo. Precisei corrigir a direção duas vezes até chegar ao lugar onde devolveria os carrinhos.
+
+A manhã não havia se transformado inteira.
+
+Ainda havia calor, trânsito no estacionamento e uma sacola que ameaçava rasgar. Meu carro estava na mesma vaga distante. Eu continuava com as mesmas contas e as mesmas tarefas esperando em casa.
+
+Mas caminhei mais devagar.
+
+Guardei as compras e me sentei ao volante. Antes de ligar o motor, tirei o celular do bolso.
+
+O número estava lá.
+
+Não escrevi imediatamente. Achei melhor deixá-la chegar, guardar suas coisas, encontrar o lugar da planta.
+
+Também precisava fazer isso com minhas compras.
+
+Liguei o carro.
+
+Na saída, dei passagem a uma senhora que empurrava um carrinho cheio. Ela agradeceu com a mão. Um pouco adiante, o menino do estacionamento ainda abraçava o enorme pacote de papel higiênico.
+
+Talvez fosse outro menino, com outro pacote.
+
+Sorri de qualquer maneira.
+
+***
+
+Em casa, coloquei as sacolas sobre a mesa.
+
+Guardei o leite, as frutas, o arroz e o café. O sal foi para o armário. O pacote de biscoitos ficou à vista, porque já não havia motivo para escondê-lo atrás de nada.
+
+Deixei os chás e a caneca azul sobre a pia.
+
+A casa estava silenciosa.
+
+Aquele silêncio era conhecido. Em alguns dias, eu gostava dele. Em outros, ligava a televisão antes mesmo de terminar de guardar as compras.
+
+Naquela manhã, não liguei.
+
+Pus água para aquecer e lavei a caneca nova.
+
+Enquanto esperava, tirei a lista do bolso. O papel estava amassado, com pequenas marcas de meus dedos. Todos os itens haviam sido riscados.
+
+Virei-o.
+
+No verso, escrevi:
+
+*Corredor 21.*
+
+Fiquei olhando as palavras.
+
+Eu ainda não sabia explicar o que havia sentido quando ela passara por mim. Talvez meu corpo tivesse percebido um perfume, um movimento, uma presença antes que eu me desse conta.
+
+Talvez eu estivesse mais disponível para um encontro do que imaginava.
+
+Nenhuma dessas possibilidades me incomodava.
+
+A água começou a ferver. Desliguei o fogo, coloquei o chá na caneca e observei a cor se espalhar.
+
+O celular vibrou sobre a mesa.
+
+Era uma mensagem dela.
+
+*Já encontrei um lugar para a planta.*
+
+Havia uma fotografia.
+
+O vaso estava perto de uma janela, recebendo luz. Ao lado, eu podia ver apenas a ponta de uma cortina e um pedaço da parede.
+
+Olhei a imagem por alguns segundos.
+
+Respondi:
+
+*Parece um bom lugar. Estou preparando o chá.*
+
+Ela escreveu:
+
+*Eu também. Vamos descobrir se a indicação da minha irmã foi boa.*
+
+Sentei-me à mesa.
+
+Experimentei a bebida antes da hora, queimei um pouco a língua e ri sozinho.
+
+Esperei esfriar.
+
+Quando provei novamente, ainda não soube dizer se gostava. O sabor era diferente do que eu costumava escolher. Bebi outro gole, prestando atenção.
+
+Escrevi:
+
+*Acho que preciso de mais uma xícara para decidir.*
+
+A resposta veio logo:
+
+*Algumas coisas merecem uma segunda chance.*
+
+Eu poderia ter respondido apenas sobre o chá.
+
+Em vez disso, olhei pela janela, para a rua tranquila, e pensei na manhã que havia começado com uma lista e a intenção de voltar depressa.
+
+Depois escrevi:
+
+*Um café outro dia também seria uma boa experiência.*
+
+Esperei.
+
+Desta vez, a resposta demorou alguns minutos.
+
+Levantei para guardar uma embalagem que havia esquecido na mesa. Voltei, bebi mais um pouco e procurei não olhar para a tela a cada instante.
+
+Quando a mensagem chegou, era curta:
+
+*Seria, sim. Vamos combinar.*
+
+Deixei o celular ao lado da caneca.
+
+Lá fora, alguém chamava uma criança. Um carro passou devagar. Na casa vizinha, uma janela se abriu.
+
+Eu ainda tinha o almoço para preparar e algumas tarefas para terminar. A vida continuava pedindo as pequenas coisas de sempre.
+
+Dobrei a lista e guardei-a numa gaveta.
+
+Talvez nunca encontrasse um nome exato para o que acontecera naquele supermercado. Mas já não precisava transformar a sensação numa certeza para poder acolhê-la.
+
+Havia uma conversa começando.
+
+Havia uma planta perto de uma janela.
+
+E, na minha mesa, uma caneca nova ainda pela metade.
