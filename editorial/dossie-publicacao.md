@@ -47,7 +47,7 @@ Sem ISBN, ASIN, código de barras ou ficha catalográfica inventada nos arquivos
 
 ## Validação e próximos passos
 
-PDF: comparação integral dos 450 parágrafos narrativos e fontes incorporadas; resultado em validacao-v1.json. Prova visual completa de 32 páginas registrada após inspeção.
+PDF: comparação integral dos 451 parágrafos narrativos e fontes incorporadas; resultado em validacao-v1.json. Prova visual completa de 32 páginas registrada após inspeção.
 EPUB: XML, manifest/spine, recursos, links, âncoras e parágrafos verificados localmente. EPUBCheck e Kindle Previewer não executados: não disponíveis neste ambiente.
 Capa digital: composição, título, autor, dimensões e modo conferidos. Capa aberta: proposta renderizada e inspecionada; confirmar template e Print Previewer.
 Prova física: não solicitada ou inspecionada.

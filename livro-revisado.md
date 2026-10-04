@@ -4,6 +4,8 @@
 
 ## 1. Uma manhã qualquer
 
+Naquele último fim de semana do mês, fui ao supermercado com uma lista de compras e a intenção de voltar logo para casa.
+
 Era uma manhã clara. Antes mesmo de entrar no estacionamento, percebi que havia mais movimento do que de costume. Um carro esperava por uma vaga enquanto outro tentava sair. Perto da entrada, uma família organizava sacolas no porta-malas, e um menino abraçava um pacote de papel higiênico quase do tamanho dele.
 
 Dei duas voltas pelo pátio até encontrar onde estacionar.

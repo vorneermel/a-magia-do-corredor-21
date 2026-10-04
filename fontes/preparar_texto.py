@@ -2,7 +2,7 @@ from pathlib import Path
 import re,json,difflib,subprocess,urllib.request,urllib.error,os
 root=Path(__file__).resolve().parents[1]
 source=(root/'originais/texto-ampliado-aprovado.md').read_text(encoding='utf-8-sig')
-body=source.split('\n\n',1)[1].split('\n\n',1)[1]
+body=source.split('\n\n',1)[1]
 segments=body.strip().split('\n\n***\n\n')
 assert len(segments)==12,len(segments)
 changes=[
@@ -36,7 +36,7 @@ O autor aprovou o texto ampliado da conversa, registrando cerca de meia hora em 
 Aprovou cinco capítulos, o conceito de capa no supermercado e a contracapa com caneca azul e vaso perto da janela. Autorizou prosseguir com a habilidade editor-livros-kdp em 04/10/2026.
 Não houve autorização para publicação comercial, KDP Select ou gastos.
 O manuscrito inicial foi ditado pelo autor; o texto ampliado foi desenvolvido com IA e aprovado. Os nomes dos protagonistas permanecem omitidos no texto por escolha narrativa, embora sejam apresentados entre eles. Não inventar nomes, cidade, idades exatas ou passado trágico.
-Backup público da obra autorizado pela preferência persistente registrada na habilidade explicitamente invocada. Sincronização depende de autenticação técnica.
+Backup público da obra autorizado pela habilidade e por instrução explícita do autor em 04/10/2026, incluindo commits e push das etapas salvas sem aguardar o fim.
 ''',
 'editorial/relatorio-editorial-v1.md':f'''# Relatório editorial — versão 1
 
@@ -95,7 +95,7 @@ Diálogos com travessão; mensagens e anotação em itálico; placa destacada. C
 'editorial/progresso.md':'''# Progresso — 04/10/2026
 
 Texto aprovado recuperado integralmente da conversa e preservado. Cinco capítulos preparados. Uma correção de continuidade em três frases, documentada. Título, autoria e contracapa confirmados no histórico.
-Produção e conferência de PDF, EPUB e capas em andamento. Commit único final será feito ao concluir a preparação; nenhum commit por capítulo.
+Produção e conferência de PDF, EPUB e capas em andamento. Em 04/10/2026, instrução explícita do autor autorizou commits e push das etapas salvas sem aguardar o fim. Primeiro backup a2fd9bd enviado; conferência final em andamento.
 Pasta anterior de Ecos da Névoa não existe neste ambiente. Esta obra fica isolada em Documentos/livros/magia do corredor 21; não mistura os livros.
 '''
 }

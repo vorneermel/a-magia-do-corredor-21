@@ -7,13 +7,13 @@
       576
     ],
     "fontes": {
-      "/Helvetica": false,
       "/AAAAAA+Georgia-Bold": true,
       "/AAAAAA+Georgia": true,
       "/AAAAAA+Georgia-Italic": true
     },
-    "paragrafos_na_ordem": 450,
-    "inspecao_visual": "pendente; 32 páginas renderizadas"
+    "paragrafos_na_ordem": 451,
+    "inspecao_visual": "32 páginas inspecionadas integralmente nas 8 folhas de prova da versão final; página 32 branca intencional",
+    "comparacao_original": "narrativa integral igual ao texto ampliado aprovado, salvo as três correções documentadas"
   },
   "epub": {
     "xml": "todos os documentos bem formados",
@@ -27,7 +27,8 @@
       1600,
       2560
     ],
-    "modo": "RGB"
+    "modo": "RGB",
+    "inspecao_visual": "título, autor, composição e área segura conferidos"
   },
   "capa_impressa": {
     "paginas": 32,
@@ -49,28 +50,33 @@
     ],
     "ppi_verso": 374.0,
     "template_calculadora": "não aplicado",
-    "estado": "proposta; validar com template e Print Previewer"
+    "estado": "proposta; validar com template e Print Previewer",
+    "inspecao_visual": "frente, contracapa, lombada e área livre de código conferidos; template e preview pendentes",
+    "fontes_incorporadas": {
+      "/AAAAAA+Georgia": true,
+      "/AAAAAA+Georgia-Bold": true
+    }
   },
   "arquivos": {
     "livro-revisado.md": {
-      "bytes": 28058,
-      "sha256": "3a21673c9cc512fa03bf3ef1ba7103353f7312022de08d62a1cc22b9a151fbae"
+      "bytes": 28186,
+      "sha256": "9d92c81ce109a75dfe11cafc01a0d9626995161353f53d355352695dd171b06d"
     },
     "output/pdf/a-magia-do-corredor-21-miolo-v1.pdf": {
-      "bytes": 137210,
-      "sha256": "48712b7fa2a3dc4700425199adc0474fb2088bc9a03d8b97bacaee529c0c0635"
+      "bytes": 136656,
+      "sha256": "6ce85cdd3a6d0cbeff224c0ec4d0ad47bd321ed80d11add25dd26506b9398570"
     },
     "output/epub/a-magia-do-corredor-21-v1.epub": {
-      "bytes": 827439,
-      "sha256": "d78de9ec4525891af574ca4571132da67e2404d9bbf230d1628037efe899629a"
+      "bytes": 827892,
+      "sha256": "b6591f131e1cc360f8160d330385eda5f2a3430f5aa36b0441e151047167fcb9"
     },
     "output/capa/capa-digital-v1.jpg": {
-      "bytes": 870902,
-      "sha256": "61b0083793151a702297e3ad95e28bb1d94f4602aa709ff0fc0cec238dff5c92"
+      "bytes": 871291,
+      "sha256": "4f8d151f7501cce270f99c488237b0589f7f634c90840d4a853568535214a9c0"
     },
     "output/capa/proposta-capa-impressa-v1.pdf": {
-      "bytes": 8787066,
-      "sha256": "e24fc0c1df5a9b3976ff0955bad2a93b7619b8aca6aa54f23b07572cc5817abc"
+      "bytes": 8786915,
+      "sha256": "63eafee1c5c7a3424a5c6d19bee1b43c7c8f1644bb952b3bd9a1d2c16ca90bf9"
     }
   }
 }

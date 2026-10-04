@@ -19,7 +19,7 @@ pdfmetrics.registerFontFamily('Georgia',normal='Georgia',bold='Georgia-Bold',ita
 OriginalCanvas=canvas.Canvas
 class EmbeddedCanvas(OriginalCanvas):
     def __init__(self,*args,**kwargs):
-        kwargs.setdefault('initialFontName','Georgia')
+        kwargs['initialFontName']='Georgia'
         super().__init__(*args,**kwargs)
 canvas.Canvas=EmbeddedCanvas
 body=ParagraphStyle('Body',fontName='Georgia',fontSize=11.5,leading=15.5,alignment=TA_JUSTIFY,firstLineIndent=13,spaceAfter=1,splitLongWords=False,allowWidows=0,allowOrphans=0)
@@ -84,12 +84,12 @@ def front(c,x=0,y=0):
     c.setFillColor(HexColor(green));c.setFont('Georgia',25);c.drawCentredString(W/2,520,'A MAGIA')
     c.setFont('Georgia',20);c.drawCentredString(W/2,489,'DO CORREDOR')
     c.setFont('Georgia-Bold',37);c.drawCentredString(W/2,445,'21')
-    c.setFont('Georgia',12);c.drawCentredString(W/2,20,'VORNE ERMEL');c.restoreState()
+    c.setFont('Georgia',12);c.drawCentredString(W/2,28,'VORNE ERMEL');c.restoreState()
 frontpdf=root/'tmp/capa-frontal.pdf';c=canvas.Canvas(str(frontpdf),pagesize=(W,H));front(c);c.showPage();c.save()
 subprocess.run(['pdftoppm','-singlefile','-scale-to-x','1600','-scale-to-y','2560','-png',str(frontpdf),str(root/'tmp/capa-digital')],check=True,capture_output=True)
 Image.open(root/'tmp/capa-digital.png').convert('RGB').save(root/'output/capa/capa-digital-v1.jpg',quality=95,subsampling=0)
 # SVG mantém tipografia editável; a imagem original é referenciada por caminho relativo.
-svg=f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 576" width="1600" height="2560"><rect width="360" height="576" fill="{cream}"/><image x="{(W-art_w)/2}" y="{H-35-art_h}" width="{art_w}" height="{art_h}" xlink:href="arte-frente-v1.png"/><g fill="{green}" text-anchor="middle" font-family="Georgia,serif"><text x="180" y="56" font-size="25">A MAGIA</text><text x="180" y="87" font-size="20">DO CORREDOR</text><text x="180" y="131" font-size="37" font-weight="bold">21</text><text x="180" y="556" font-size="12">VORNE ERMEL</text></g></svg>'''
+svg=f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 576" width="1600" height="2560"><rect width="360" height="576" fill="{cream}"/><image x="{(W-art_w)/2}" y="{H-35-art_h}" width="{art_w}" height="{art_h}" xlink:href="arte-frente-v1.png"/><g fill="{green}" text-anchor="middle" font-family="Georgia,serif"><text x="180" y="56" font-size="25">A MAGIA</text><text x="180" y="87" font-size="20">DO CORREDOR</text><text x="180" y="131" font-size="37" font-weight="bold">21</text><text x="180" y="548" font-size="12">VORNE ERMEL</text></g></svg>'''
 (root/'output/capa/capa-frontal-editavel-v1.svg').write_text(svg,encoding='utf-8')
 bleed=9;spine=pagecount*.0025*72;CW=2*W+spine+2*bleed;CH=H+2*bleed
 cover=root/'output/capa/proposta-capa-impressa-v1.pdf'
@@ -98,7 +98,7 @@ c.setFillColor(HexColor(cream));c.rect(0,0,CW,CH,fill=1,stroke=0)
 front(c,bleed+W+spine,bleed)
 c.setFillColor(HexColor(green));c.rect(bleed+W,0,spine,CH,fill=1,stroke=0)
 back_w=3.0*72;bw,bh=Image.open(back_art).size;back_h=back_w*bh/bw
-c.drawImage(str(back_art),bleed+(W-back_w)/2,bleed+100,width=back_w,height=back_h)
+c.drawImage(str(back_art),bleed+(W-back_w)/2,bleed+118,width=back_w,height=back_h)
 # Colocar sinopse em painel claro acima da ilustração, sem atingir área reservada ao código.
 c.setFillColor(HexColor(cream));c.rect(bleed+28,bleed+300,W-56,240,fill=1,stroke=0)
 backstyle=ParagraphStyle('Back',fontName='Georgia',fontSize=10.5,leading=14.5,textColor=HexColor(green),spaceAfter=10)

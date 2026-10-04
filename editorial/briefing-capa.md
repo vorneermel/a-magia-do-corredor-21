@@ -1,0 +1,16 @@
+# Briefing e procedência da capa — versão 1
+
+Título: A Magia do Corredor 21. Autor: Vorne Ermel. Conceito e contracapa aprovados pelo autor na conversa. Paleta creme, verde e dourado; encontro de adultos maduros em supermercado; magia sugerida por luz, gestos e sorriso. Sem ameaça, estética de terror, efeitos sobrenaturais explícitos, marcas comerciais ou depoimentos.
+
+Composição: título editável em três linhas; autor na base; ilustração central aplicada a 3,28 polegadas para preservar resolução real acima de 300 ppi. Arte frontal original 992 × 1586 pixels. Não houve ampliação para gerar detalhe de impressão. SVG referencia arte-frente-v1.png e conserva texto editável. Frente digital renderizada em JPEG RGB 1600 × 2560. Contracapa usa caneca azul e vaso junto à janela, com sinopse em painel claro. Capa aberta com lombada creme/verde sem texto e área livre de código automático.
+
+Ferramenta: image_gen integrada, duas gerações originais, sem imagens de pessoas reais como referência. A criação da arte foi por IA; não apenas assistência. Scripts fazem composição e tipografia, sem alteração semântica das ilustrações. A proposta impressa depende da aplicação do template do KDP e da conferência no Print Previewer.
+
+## Prompt frontal completo
+
+Use case: illustration-story. Asset: original literary book cover illustration, portrait 5:8. Create a refined painterly illustration with subtle paper texture, warm cream, sage green and muted gold palette. A believable modern Brazilian supermarket tea and natural-products aisle in perspective, shelves of unbranded small boxes and jars on both sides. In lower-middle area two ordinary attractive middle-aged adults around 50, each with their own metal shopping cart, exchanging a quiet warm smile across the aisle. Woman light brown skin, green eyes, dark shoulder-length hair, simple light cream dress; man natural mature appearance in casual shirt. Their proportions and hands must be convincing, no touching or embracing. Small overhead supermarket aisle sign reads only '21'. Soft warm light suggests unexpected attraction and hope, no supernatural sparkles. Upper quarter is spacious pale cream gently blending into scene, reserved for editable title added separately, lower 10% quiet reserved author. No words other than 21, no logos, watermark or borders. Literary intimacy, mature romantic short story, everyday gentle wonder, not thriller. High-resolution portrait artwork ideally at least 1600x2560.
+
+## Prompt traseiro completo
+
+Use case illustration-story. Asset: small original illustration for back cover of a mature romantic literary short story. A simple blue ceramic mug of warm tea on a cream wooden tabletop beside a window, and a small modest flowering plant in a plastic nursery pot, with one unopened bud. Soft morning light, sage green leaves, warm cream wall and muted golden light. Refined painterly illustration with fine paper texture, calm intimacy and hope, natural everyday details, understated aesthetic matching a cream/sage supermarket romance cover. Composition portrait 4:5, objects in lower half with generous softly lit empty cream space above, no text, logos, watermark, people, elaborate flowers or supernatural effects.
+

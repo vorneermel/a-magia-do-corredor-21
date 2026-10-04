@@ -5,6 +5,11 @@ from pypdf import PdfReader
 import pdfplumber
 from PIL import Image,ImageOps,ImageDraw
 root=Path(__file__).resolve().parents[1];chapters=json.loads((root/'editorial/capitulos.json').read_text(encoding='utf-8'))
+original=(root/'originais/texto-ampliado-aprovado.md').read_text(encoding='utf-8-sig').split('\n\n',1)[1].strip()
+for change in json.loads((root/'editorial/alteracoes.json').read_text(encoding='utf-8')):original=original.replace(change['antes'],change['depois'])
+expected=re.sub(r'\s+','',original.replace('***',''))
+actual=re.sub(r'\s+','',''.join(c['texto'] for c in chapters).replace('***',''))
+assert actual==expected,'Capítulos devem preservar integralmente a narrativa aprovada, salvo as correções registradas.'
 miolo=root/'output/pdf/a-magia-do-corredor-21-miolo-v1.pdf';epub=root/'output/epub/a-magia-do-corredor-21-v1.epub'
 normal=lambda x:re.sub(r'\s+','',x.replace('*',''))
 reader=PdfReader(miolo);fonts={};extracted=[];bounds=[]

@@ -4,7 +4,7 @@ Leitura global: toda a versão ampliada aprovada, de início ao fim. Preparaçã
 
 Gênero: conto romântico contemporâneo de atmosfera poética; público adulto. Narrador em primeira pessoa, passado. A magia permanece experiência subjetiva: a mulher não confirma a mesma sensação. O final oferece uma conversa futura, sem casamento ou destino inventado.
 
-Extensão da narrativa após preparação: 4296 palavras. O autor relatou meia hora em sua leitura; o ritmo individual pode variar.
+Extensão da narrativa após preparação: 4319 palavras. O autor relatou meia hora em sua leitura; o ritmo individual pode variar.
 
 ## Estrutura
 
@@ -34,4 +34,4 @@ Original ampliado preservado em originais/texto-ampliado-aprovado.md; ditado ini
 
 ## Prova
 
-O resultado da comparação entre fontes e formatos, paginação, fontes incorporadas e cobertura visual será registrado em validacao-v1.json. Kindle Previewer, Print Previewer e prova física são etapas externas distintas; não declarar aprovação antes da execução.
+Comparação integral de 451 parágrafos narrativos, paginação, fontes incorporadas e prova visual de todas as 32 páginas aprovadas localmente, com evidência em validacao-v1.json e cobertura-final.md. Kindle Previewer, Print Previewer e prova física são etapas externas distintas; não declarar aprovação antes da execução.

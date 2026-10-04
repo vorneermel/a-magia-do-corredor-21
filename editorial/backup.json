@@ -1,6 +1,7 @@
 {
-  "estado": "remoto criado ou reutilizado; commit final ainda não enviado",
   "repo": "vorneermel/a-magia-do-corredor-21",
   "publico": true,
-  "url": "https://github.com/vorneermel/a-magia-do-corredor-21"
+  "url": "https://github.com/vorneermel/a-magia-do-corredor-21",
+  "primeiro_backup_confirmado": "a2fd9bd1afce9c5d50c3c4e089cb881f1ccef3bc",
+  "etapa": "preparação final concluída; envio do commit final em seguida"
 }

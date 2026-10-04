@@ -18,7 +18,7 @@
 
 Originais: ditado do autor e texto ampliado aprovado preservados em originais/. Revisão integral do texto ampliado; cinco capítulos aprovados; três ajustes objetivos na sequência de compras e carrinhos. Sem alteração de desfecho ou identidade dos personagens. Relatórios e comparação em editorial/, scripts reproduzíveis em fontes/.
 
-PDF e EPUB gerados; prova e conferência em andamento, com evidência atualizada em editorial/validacao-v1.json. Não foram aprovados no preview da Amazon. Capa impressa classificada como proposta: falta aplicar o template e conferir no Print Previewer. Não houve publicação comercial.
+PDF e EPUB validados localmente: narrativa integral conferida e 32 páginas do miolo inspecionadas, com evidência em editorial/validacao-v1.json. Não foram aprovados no preview da Amazon. Capa impressa classificada como proposta: falta aplicar o template e conferir no Print Previewer. Não houve publicação comercial.
 
 ## Backup
 
